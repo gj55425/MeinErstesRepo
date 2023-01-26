@@ -3,4 +3,5 @@
 ## Ziel
 Das Ziel der kleinen App ist ...
 ## Autoren
-* Julian und Larissa
+* Ich und 
+* ein Klassenkamerad/-in
